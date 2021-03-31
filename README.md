@@ -1,6 +1,8 @@
 # ESP8266-HomeKit-Window-Covering-System
 ESP8266 – HomeKit Window Covering System
 
+## WORK IN PROGRESS!
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Window-Covering-System)
 ![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Window-Covering-System/total)
 [![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
