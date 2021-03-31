@@ -18,4 +18,4 @@ For More Information Visit http://www.studiopieters.nl/
 
 ###### The HomeKit Accessory Protocol Specification (Non-Commercial Version) can be downloaded from the [HomeKit Apple Developer page.](https://developer.apple.com/homekit/)
 
-###### Copyright © 2019 Apple Inc. All rights reserved.
+###### Copyright © 2021 Apple Inc. All rights reserved.
